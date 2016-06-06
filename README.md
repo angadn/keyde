@@ -26,6 +26,7 @@ Usage
 		@objc func ensureKeyboardShut() {
 			keyboardManagement!.ensureKeyboardShut()
 		}
+	}
 
 
 
